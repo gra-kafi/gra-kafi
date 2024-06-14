@@ -13,7 +13,7 @@ My name is Gazi Rafat Al Kafi. I'm a student of Computer Science and Engineering
 </ul>
 
 <h2>
-  My acievements 🏆
+  My achievements 🏆
 </h2>
 <ul>
   <li>2nd Runners-Up of the UIU CSE Department Project Showcase in the Advanced OOP Lab Category</li>
