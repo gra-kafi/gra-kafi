@@ -40,6 +40,6 @@ My name is Gazi Rafat Al Kafi. I'm a student of Computer Science and Engineering
 </h2>
 <ul>
   <li>
-    <a href="linkedin.com/in/gra-kafi">Linkedin</a>
+    <a href="https://www.linkedin.com/in/gra-kafi">Linkedin</a>
   </li>
 </ul>
