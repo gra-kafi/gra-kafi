@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gazi Rafat Al Kafi
-- 👀 I’m interested in Java development
+- 👀 I'm interested in blockchain development
 - 🌱 I’m currently learning web development
 - 📫 Reach me at gra.kafi20@gmail.com
 - 😄 Pronouns: he/him
