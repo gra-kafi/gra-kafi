@@ -1,10 +1,45 @@
-- 👋 Hi, I’m Gazi Rafat Al Kafi
-- 👀 I'm interested in blockchain development
-- 🌱 I’m currently learning web development
-- 📫 Reach me at gra.kafi20@gmail.com
-- 😄 Pronouns: he/him
+<h1>Hi 👋</h1>
+<p>
+My name is Gazi Rafat Al Kafi. I'm a student of Computer Science and Engineering at United International University in Bangladesh.
+</p>
 
-<!---
-gra-kafi/gra-kafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>
+  My interests 📌
+</h2>
+<ul>
+  <li>Problem solving</li>
+  <li>Java Development</li>
+  <li>Web Development</li>
+</ul>
+
+<h2>
+  My acievements 🏆
+</h2>
+<ul>
+  <li>2nd Runners-Up of the UIU CSE Department Project Showcase in the Advanced OOP Lab Category</li>
+</ul>
+
+<h2>
+  Technologies i know 💻
+</h2>
+<ul>
+  <li>Java</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>Python</li>
+  <li>Arduino</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>GitHub</li>
+  <li>Git</li>
+</ul>
+
+<h2>
+  Connect with me 🌐
+</h2>
+<ul>
+  <li>
+    <a href="linkedin.com/in/gra-kafi">Linkedin</a>
+  </li>
+</ul>
