@@ -20,7 +20,7 @@ My name is Gazi Rafat Al Kafi. I'm a student of Computer Science and Engineering
 </ul>
 
 <h2>
-  Technologies i know 💻
+  Technologies I know 💻
 </h2>
 <ul>
   <li>Java</li>
@@ -28,8 +28,9 @@ My name is Gazi Rafat Al Kafi. I'm a student of Computer Science and Engineering
   <li>C</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>GitHub</li>
   <li>Git</li>
+  <li>GitHub</li>
+  
 </ul>
 
 <h2>
