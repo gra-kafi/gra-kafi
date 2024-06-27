@@ -24,6 +24,7 @@ My name is Gazi Rafat Al Kafi. I'm a student of Computer Science and Engineering
 </h2>
 <ul>
   <li>Java</li>
+  <li>Python</li>
   <li>C</li>
   <li>HTML</li>
   <li>CSS</li>
