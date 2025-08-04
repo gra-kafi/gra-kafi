@@ -8,8 +8,6 @@ My name is Gazi Rafat Al Kafi. I'm a student of Computer Science and Engineering
 </h2>
 <ul>
   <li>Problem solving</li>
-  <li>Java Development</li>
-  <li>Web Development</li>
 </ul>
 
 <h2>
@@ -26,7 +24,8 @@ My name is Gazi Rafat Al Kafi. I'm a student of Computer Science and Engineering
   <li>Java</li>
   <li>Python</li>
   <li>C</li>
-  <li>MongoDB</li>
+  <li>C++</li>
+  <li>MySQL</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Git</li>
